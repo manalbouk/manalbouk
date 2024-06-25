@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hello!
 
-<!--
-**manalbouk/manalbouk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduction
 
-Here are some ideas to get you started:
+Hello! I'm Manal Boukaabar, a sophomore student studying Information Sciences at the University of Pittsburgh. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and Technologies
+
+- Programming Languages: JavaScript, HTML, C++
+- Tools & Technologies: Netbeans, Eclipse, Bootstrap
+
+## Education
+
+- Expected Graduation Year: 2027 
+- Relevant coursework: Introduction to Java, Advanced Java, Information Systems and Society, Analytic Geometry and Calculus, Introduction to Statistics
+
+## Contact
+
+- Email: mab987@pitt.edu
+
+## Pronouns
+- She/Her
+
